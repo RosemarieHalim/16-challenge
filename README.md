@@ -36,7 +36,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ---
 
-![challenge screenshot](dist/challenge16.JPG)
+![challenge screenshot](./dist/challenge16.PNG)
 
 ## Purpose
 As a new developer I require a react website to display information about myself and a portfolio to show my experience.
