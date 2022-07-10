@@ -36,15 +36,16 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ---
 
-![alt text](dist/screenshot.JPG)
+![challenge screenshot](dist/challenge16.JPG)
 
 ## Purpose
-
+As a new developer I require a react website to display information about myself and a portfolio to show my experience.
 
 ## Built With
 * JavaScript
 * NoSQL
 * Node.js
+* react
 
 ---
 
@@ -52,9 +53,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 * planned out layout of code
 * created github repo
-* cloned starter code
+* cloned module code
 * referenced module code and lessons
-* ran and tested code, no issues
+* updated code to related code
+* ran and tested code, fixed code
 
 ## Deployed Site
-https://git.heroku.com/challenge-15.git
