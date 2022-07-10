@@ -59,3 +59,4 @@ As a new developer I require a react website to display information about myself
 * ran and tested code, fixed code
 
 ## Deployed Site
+https://rosemariehalim.github.io/16-challenge/
